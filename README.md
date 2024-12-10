@@ -4,7 +4,7 @@ Hi 👋 My name is Mayur Barpande
 Web Developer
 -------------
 
-I am self taught web developer working as a System Engineer in a TCS where I can showcase my Front-End Web development skills.
+I am self taught web developer working as a Senior Associate Consultant in a Infosys where I can showcase my Front-End Web development skills.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mkbarpande@gmail.com](mailto:mkbarpande@gmail.com)
